@@ -1,4 +1,4 @@
-# Crypto-Project
+# Crypto-Project📈📊
 
 A Python-based cryptocurrency project for analysis, trading, and blockchain interactions.
 
